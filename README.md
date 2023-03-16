@@ -3,7 +3,7 @@ Hi 👋 I'm Jonathas Santos
 
 Full Stack Developer focused on front-end.
 
-* 🔭 I’m currently working on SMTT
+* 🔭 I’m currently working with Javascript | PHP | SQL
 * 🌱 I’m currently learning typescript
 * ⚡ This is my  <a target="_blank" rel="noreferrer" href=''>Portfolio</a>
 
