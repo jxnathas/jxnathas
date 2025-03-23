@@ -1,4 +1,4 @@
-# 🪝 Hi guys my name is Jonathas | Olá pessoal meu nome é Jonathas (Jon):
+# 🪝 Hi guys, my name is Jonathas | Olá pessoal, meu nome é Jonathas (Jon):
 💻 I'm a student of Systems Analysis and Development at Anhanguera, having started my academic journey in Computer Engineering at UEFS (Universidade Estadual de Feira de Santana).  <br><br>
 💼 I develop solutions independently under the name software & sys, leading the development of websites, automations, and digital solutions.  <br><br>
 🛠 A Front-end specialist, highly skilled in JavaScript and React, with experience in building fast and efficient web development platforms.  <br><br>
