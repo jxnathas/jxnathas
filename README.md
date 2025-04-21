@@ -14,6 +14,8 @@
 🎮 No meu tempo livre, gosto de explorar a arte em todas as suas nuances.<br><br>
 ⚡ Fun fact: Ragnarok Online me colocou no mundo da programação lá em 2011.
 
+## 🍥 Portfolio
+[Check it out!](https://jnths-se.vercel.app)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/jxnathas) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jnths.dev@gmail.com) 
